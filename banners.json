@@ -1,7 +1,7 @@
 [
   {
-    "id": 1779356096532,
-    "img": "https://xjankizlksyxibashxon.supabase.co/storage/v1/object/public/nini-images/banner/banner_1779356095731.jpg",
+    "id": 1779378836324,
+    "img": "https://xjankizlksyxibashxon.supabase.co/storage/v1/object/public/nini-images/banner/banner_1779378835953.jpg",
     "alt": "加入LINE群組",
     "url": "https://line.me/R/ti/p/@yourid",
     "clickable": true
@@ -14,15 +14,15 @@
     "clickable": false
   },
   {
-    "id": 3,
-    "img": "images/banner/banner_03.jpg",
+    "id": 1779378847776,
+    "img": "https://xjankizlksyxibashxon.supabase.co/storage/v1/object/public/nini-images/banner/banner_1779378847202.jpg",
     "alt": "新品預告",
     "url": "",
     "clickable": false
   },
   {
-    "id": 4,
-    "img": "images/banner/banner_04.jpg",
+    "id": 1779378857747,
+    "img": "https://xjankizlksyxibashxon.supabase.co/storage/v1/object/public/nini-images/banner/banner_1779378857237.jpg",
     "alt": "新品預告",
     "url": "",
     "clickable": false
