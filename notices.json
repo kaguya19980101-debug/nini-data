@@ -1,72 +1,16 @@
 [
   {
-    "id": 1,
-    "date": "2026.04.24",
+    "id": 1779378993153,
     "tag": "NEW",
-    "title": "系統維護公告",
-    "content": "本週日凌晨會休息一下喔！"
+    "title": "新-訂單查詢網站",
+    "content": "新-訂單查詢網站上線瞜~\n可以參考記事本裡面說明!!",
+    "date": "2026.04.21"
   },
   {
-    "id": 2,
-    "date": "2026.04.20",
-    "tag": "INFO",
-    "title": "LINE Notify 支援LINE Notify 支援",
-    "content": "現在支援透過 LINE Notify 接收通知囉～"
-  },
-  {
-    "id": 3,
-    "date": "2026.04.20",
-    "tag": "INFO",
-    "title": "LINE Notify 支援",
-    "content": "現在支援透過 LINE Notify 接收通知囉～"
-  },
-  {
-    "id": 4,
-    "date": "2026.04.20",
-    "tag": "INFO",
-    "title": "LINE Notify 支援LINE Notify 支援",
-    "content": "現在支援透過 LINE Notify 接收通知囉～"
-  },
-  {
-    "id": 5,
-    "date": "2026.04.20",
-    "tag": "INFO",
-    "title": "LINE Notify 支援514654645",
-    "content": "現在支援透過 LINE Notify 接收通知囉～"
-  },
-  {
-    "id": 6,
-    "date": "2026.04.20",
-    "tag": "INFO",
-    "title": "LINE Notify 支援LINE Notify 支援",
-    "content": "現在支援透過 LINE Notify 接收通知囉～"
-  },
-  {
-    "id": 7,
-    "date": "2026.04.20",
-    "tag": "INFO",
-    "title": "LINE Notify 支援LINE Notify 支援",
-    "content": "現在支援透過 LINE Notify 接收通知囉～"
-  },
-  {
-    "id": 1779357798672,
-    "tag": "INFO",
-    "title": "LINE Notif拜託",
-    "content": "現在支援透過 LINE Notify 接收通知囉～",
-    "date": "2026.04.20"
-  },
-  {
-    "id": 1779357785703,
-    "tag": "INFO",
-    "title": "鬼滅之刃扭蛋啊",
-    "content": "現在支援透過 LINE Notify 接收通知囉～",
-    "date": "2026.04.20"
-  },
-  {
-    "id": 1779356129624,
-    "tag": "SALE",
-    "title": "測試",
-    "content": "輸入 NINI88 可享八折優惠！測試",
-    "date": "2026.04.16"
+    "id": 1779379070038,
+    "tag": "NEW",
+    "title": "社群滿200人抽獎活動",
+    "content": "社群滿200人會舉辦抽獎活動\n但要有消費過才符合抽獎資格呦!",
+    "date": "2026.05.21"
   }
 ]
